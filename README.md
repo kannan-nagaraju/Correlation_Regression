@@ -16,7 +16,6 @@ Correlation describes the strength of an association between two variables, and 
 If y represents the dependent variable and x the independent variable, this relationship is described as the regression of y on x. The relationship can be represented by a simple equation called the regression equation. The regression equation representing how much y changes with any given change of x can be used to construct a regression line on a scatter diagram, and in the simplest case this is assumed to be a straight line.
 
 # Procedure :
-
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 
@@ -59,7 +58,6 @@ plt.legend(['Regression Line','Data points'])
 # Output: 
 
 ![image](https://github.com/kannan-nagaraju/Correlation_Regression/assets/145742755/813becf3-a877-4f8a-9c58-53fdb7d44b5a)
-
 
 # Result:
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
